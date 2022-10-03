@@ -1,0 +1,13 @@
+nbsphinx
+Sphinx==4.0.2
+pandas
+matplotlib
+scikit-learn
+imblearn
+numpy
+seaborn
+plotly
+xgboost
+ipython
+ipykernel
+shap
